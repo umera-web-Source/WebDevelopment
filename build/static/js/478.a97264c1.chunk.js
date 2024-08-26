@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[478],{5478:(e,s,a)=>{a.r(s),a.d(s,{default:()=>c});a(5043);var d=a(579);const c=()=>(0,d.jsx)("div",{children:(0,d.jsx)("h1",{className:"my-4 text-center",children:"NoPage Found"})})}}]);
+//# sourceMappingURL=478.a97264c1.chunk.js.map
