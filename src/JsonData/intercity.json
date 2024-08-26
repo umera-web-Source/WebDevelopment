@@ -1,0 +1,65 @@
+[
+  {
+    "intercityTransport": "Bus",
+    "intercityName": "Greyhound England",
+    "intercityDeparture": "Amsterdam",
+    "intercityDestination": "London",
+    "intercityDepartureTime": "14.55",
+    "intercityArrivalTime": "15.20",
+    "action": ""
+  },
+  {
+    "intercityTransport": "Bus",
+    "intercityName": "Red Coach",
+    "intercityDeparture": "London",
+    "intercityDestination": "Amsterdam",
+    "intercityDepartureTime": "15.20",
+    "intercityArrivalTime": "14.55",
+    "action": ""
+  },
+  {
+    "intercityTransport": "Car",
+    "intercityName": "Greyhound England",
+    "intercityDeparture": "Amsterdam",
+    "intercityDestination": "London",
+    "intercityDepartureTime": "14.55",
+    "intercityArrivalTime": "15.20",
+    "action": ""
+  },
+  {
+    "intercityTransport": "Bus",
+    "intercityName": "Greyhound England",
+    "intercityDeparture": "Amsterdam",
+    "intercityDestination": "London",
+    "intercityDepartureTime": "14.55",
+    "intercityArrivalTime": "15.20",
+    "action": ""
+  },
+  {
+    "intercityTransport": "Bus",
+    "intercityName": "Red Coach",
+    "intercityDeparture": "London",
+    "intercityDestination": "Amsterdam",
+    "intercityDepartureTime": "15.20",
+    "intercityArrivalTime": "14.55",
+    "action": ""
+  },
+  {
+    "intercityTransport": "Car",
+    "intercityName": "Greyhound England",
+    "intercityDeparture": "Amsterdam",
+    "intercityDestination": "London",
+    "intercityDepartureTime": "14.55",
+    "intercityArrivalTime": "15.20",
+    "action": ""
+  },    
+  {
+    "intercityTransport": "Cab",
+    "intercityName": "Red Coach",
+    "intercityDeparture": "London",
+    "intercityDestination": "Amsterdam",
+    "intercityDepartureTime": "15.20",
+    "intercityArrivalTime": "14.55",
+    "action": ""
+  }
+]
